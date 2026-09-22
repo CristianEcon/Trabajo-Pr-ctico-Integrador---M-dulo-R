@@ -13,10 +13,7 @@ Se usa la base de datos **Penn World Table (PWT) 11.0**, que tiene información 
 
 ## Contenido del repositorio
 
-- `analisis_pwt.R` — script de R con todo el análisis, de punta a punta.
-- `figuras/` (g1.png a g7.png) — gráficos generados por el script.
-- `reporte.tex` / `document.pdf` — informe final con la explicación y los resultados.
-- `pwt110.dta` — base de datos original (Penn World Table 11.0).
+- `TP_Integrador-R.R` — script de R con todo el análisis, de punta a punta.
 
 ## Cómo correr el código
 
