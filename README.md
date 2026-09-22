@@ -1,6 +1,6 @@
 # Trabajo-Pr-ctico-Integrador---M-dulo-R
 
-Este trabajo estudia si los países más pobres están **achicando la brecha de productividad laboral** que tienen respecto a Estados Unidos, y qué factores explican esa convergencia (o la falta de ella).
+Este trabajo estudia si los países más pobres están **achicando la brecha de productividad laboral** que tienen respecto a Estados Unidos, y qué factores explican esa convergencia.
 
 Se usa la base de datos **Penn World Table (PWT) 11.0**, que tiene información económica de más de 180 países desde 1950 hasta la actualidad (PBI, empleo, capital, capital humano, precios, etc.).
 
