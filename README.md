@@ -20,7 +20,7 @@ Se usa la base de datos **Penn World Table (PWT) 11.0**, que tiene información 
 
 ## Cómo correr el código
 
-1. Abrir `analisis_pwt.R` en RStudio.
+1. Abrir `TP_Integrador-R.R` en RStudio.
 2. Instalar los paquetes que pide el script (`dplyr`, `ggplot2`, `fixest`, `glmnet`, `plm`, `urca`, etc.).
 3. Correr el script completo. Va a descargar o leer la base de datos, generar los gráficos en la carpeta `figuras/` y mostrar los resultados en la consola.
 
