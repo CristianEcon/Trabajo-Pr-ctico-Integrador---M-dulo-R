@@ -13,13 +13,14 @@ Se usa la base de datos **Penn World Table (PWT) 11.0**, que tiene información 
 
 ## Contenido del repositorio
 
-- `TP_Integrador-R.R` — script de R con todo el análisis, de punta a punta.
+- `TP_Integrador-R.R` — script de R.
 
 ## Cómo correr el código
 
 1. Abrir `TP_Integrador-R.R` en RStudio.
 2. Instalar los paquetes que pide el script (`dplyr`, `ggplot2`, `fixest`, `glmnet`, `plm`, `urca`, etc.).
-3. Correr el script completo. Va a descargar o leer la base de datos, generar los gráficos en la carpeta `figuras/` y mostrar los resultados en la consola.
+3. Correr el script completo.
+Nota: para poder correr el script sin necesidad de cambiar el directorio de trabajo, obviar lineas 1-9.
 
 ## Fuente de los datos
 
